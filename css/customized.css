@@ -1,0 +1,6 @@
+.slide {
+    background-image:url('/image/Zingbox-bg3.png');
+}
+iframe {
+    min-height: 500px !important;
+}
