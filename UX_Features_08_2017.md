@@ -49,7 +49,7 @@ usemathjax: yes
 [slide]
 [magic data-transition="earthquake"]
 ## <span class="label label-success">&nbsp;</span> MSSP(Managed Security Service Provider) phase#3
-<button class="btn btn-rounded btn-warning btn-sm">Jun W.</button> <button class="btn btn-rounded btn-warning btn-sm">John S.</button> <button class="btn btn-rounded btn-warning btn-sm">Mark</button> <button class="btn btn-rounded btn-warning btn-sm">Mingtian</button> <button class="btn btn-rounded btn-warning btn-sm">Ran</button>
+<button class="btn btn-rounded btn-warning btn-sm">Jun W.</button> <button class="btn btn-rounded btn-warning btn-sm">John S.</button> <button class="btn btn-rounded btn-warning btn-sm">Mark</button> <button class="btn btn-rounded btn-warning btn-sm">Wellford</button>  <button class="btn btn-rounded btn-warning btn-sm">Mingtian</button> <button class="btn btn-rounded btn-warning btn-sm">Ran</button>
 ----
 <div class="columns1">
     <img src="/image/MSSP-Portal-Phase-4.png" height="200">
@@ -71,7 +71,7 @@ usemathjax: yes
 [slide]
 [magic data-transition="earthquake"]
 ## <span class="label label-success">&nbsp;</span> Connectivity report
-<button class="btn btn-rounded btn-warning btn-sm">John S.</button> <button class="btn btn-rounded btn-warning btn-sm">Jun W.</button> <button class="btn btn-rounded btn-warning btn-sm">Mark</button> <button class="btn btn-rounded btn-warning btn-sm">Fan</button> <button class="btn btn-rounded btn-warning btn-sm">Mingtian</button> 
+<button class="btn btn-rounded btn-warning btn-sm">Anthony I.</button> <button class="btn btn-rounded btn-warning btn-sm">John S.</button> <button class="btn btn-rounded btn-warning btn-sm">Jun W.</button> <button class="btn btn-rounded btn-warning btn-sm">Mark</button> <button class="btn btn-rounded btn-warning btn-sm">Fan</button> <button class="btn btn-rounded btn-warning btn-sm">Mingtian</button> 
 ----
 <div class="columns1">
     <img src="/image/Connectivity-report.png" height="200">
@@ -104,7 +104,7 @@ usemathjax: yes
 
 [slide]
 ## <span class="label label-success">&nbsp;</span> Audit log
-<button class="btn btn-rounded btn-warning btn-sm">Jun W.</button> <button class="btn btn-rounded btn-warning btn-sm">Yijing</button>
+<button class="btn btn-rounded btn-warning btn-sm">Jun W.</button> <button class="btn btn-rounded btn-warning btn-sm">Yijing</button> <button class="btn btn-rounded btn-warning btn-sm">Jianlin </button> <a href="https://zingbox.atlassian.net/wiki/display/EISP/Product+Security" target="_blank"><i class="fa fa-wikipedia-w mr5"></i></a>
 ----
 <iframe data-src="https://testing.zingbox.com/administration/auditLogs" src="about:blank;" width="800" height="600"></iframe>
 
@@ -190,6 +190,8 @@ usemathjax: yes
 ----
 * <span class="label label-success">&nbsp;</span> Open inventory link in new tab <button class="btn btn-rounded btn-warning btn-sm">Wellford</button>
 * <span class="label label-success">&nbsp;</span> Device detail destination table pagination <button class="btn btn-rounded btn-warning btn-sm">Wellford</button>
+* <span class="label label-success">&nbsp;</span> Automate Piwik Tracking for new tenants <button class="btn btn-rounded btn-warning btn-sm">Wellford</button>
+* <span class="label label-success">&nbsp;</span> Edit policy on alert page popup<button class="btn btn-rounded btn-warning btn-sm">Wellford</button>
 * <span class="label label-success">&nbsp;</span> Subnet management warning window<button class="btn btn-rounded btn-warning btn-sm">John</button> <button class="btn btn-rounded btn-warning btn-sm">Mark</button>
 * <span class="label label-success">&nbsp;</span> Marketing / Design Support <button class="btn btn-rounded btn-warning btn-sm">Mark</button>
 
